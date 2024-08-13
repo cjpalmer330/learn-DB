@@ -1,1 +1,2 @@
-# learn-DB
+# Overview
+- I am trying to learn database integration with typescript. and particularly trying to do so without using an ORM that has too much higher level abstraction so that I am able to utilize the SQL knowledge I was studying last semester. I hopefully either want to migrate this to my goodreads clone project or use the knowledge I gain from this to help with said project depending if I like the workflow of Kysely
